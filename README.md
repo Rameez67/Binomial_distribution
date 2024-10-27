@@ -1,0 +1,2 @@
+Question 13: 19SW must pass three theory subjects and two practicals in the 8th semester. Find the probability that they will pass more subjects and practical than they fail out of five. The binomial distribution uses an average pass rate of 70%. Evaluate the problem by developing a Java/Python program. Apply the binomial distribution to determine the probability that 19SW will pass more subjects than they fail out of five by developing a program.
+![image](https://github.com/user-attachments/assets/1463dbf2-70fd-45a4-8cbb-1a5ea431ea92)
